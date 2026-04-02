@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-lensa",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Lensa de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-lensa",
+    "voucher-lensa",
+    "cupon-lensa",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/lensa.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-lensa.git"
+  }
+}
